@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "John Doe - Developer",
+  title: "Aman Kalal - Developer",
   description:
     "Aman Kalal is a full-stack developer. He is currently learning web3 and building in public",
 };
