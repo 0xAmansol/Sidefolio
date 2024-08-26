@@ -1,7 +1,11 @@
-
+import sidefolioAceternity from "public/images/sidefolio-aceternity-2.png";
+import sidefolioAceternity2 from "public/images/sidefolio-aceternity-2.png";
+import sidefolioAlgochurn from "public/images/sidefolio-algochurn.png";
+import sidefolioAlgochurn2 from "public/images/sidefolio-algochurn.png";
 import sidefolioMoonbeam from "public/images/sidefolio-moonbeam.png";
 import sidefolioMoonbeam2 from "public/images/sidefolio-moonbeam-2.png";
-
+import sidefolioTailwindMasterKit from "public/images/sidefolio-tailwindmasterkit.png";
+import sidefolioTailwindMasterKit2 from "public/images/sidefolio-tailwindmasterkit-2.png";
 
 export const products = [
   {
@@ -16,11 +20,20 @@ export const products = [
     content: (
       <div>
         <p>
-         Writing brilliant long form content doesn't have to feel like a chore
+          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
+          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
+          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
+          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
+          non cupidatat duis esse velit ut culpa et.{" "}
         </p>
         <p>
-          Moonbeam is the only AI writing assistant specifically trained to help you write essays, stories, articles, blogs, and other long form content.
-          Where other AI writing tools trail off into meaningless nonsense, Moonbeam shines
+          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
+          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
+          sit aute fugiat incididunt nostrud consequat proident fugiat id.
+          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
+          reprehenderit. Cillum Lorem veniam eu magna exercitation.
+          Reprehenderit adipisicing minim et officia enim et veniam Lorem
+          excepteur velit adipisicing et Lorem magna.
         </p>{" "}
       </div>
     ),
