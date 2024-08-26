@@ -3,7 +3,7 @@ export const timeline = [
     company: "Accenture",
     title: "Application Development Analyst",
     date: "2023 - Present",
-    description: "Azure Data Engineer(Mars Inc.)",
+    description: "(Mars Inc.)Azure Data Engineer",
     responsibilities: [
       "Developed Azure-based BI solutions, enabling real-time business intelligence and reporting capabilities, leading to a 12% improvement in operational decision-making speed.",
       "Led the migration of on-premises SQL databases to Azure SQL Database, reducing operational costs by 30% and improving scalability.",
@@ -16,7 +16,7 @@ export const timeline = [
     company: "Accenture",
     title: "Application Development Associate",
     date: "2022 - 2023",
-    description: "Application Engineer responsible for providing consulting project and support work for various Oil and Gas.",
+    description: "(Shell Inc.)Application Engineer responsible for providing consulting project and support work for various Oil and Gas.",
     responsibilities: [
       "Custom built multiple PI Vision symbols to gather more analytical data from PI Server using HTML,CSS,JS and ReactJS, leading to 30% increase in insights of data.",
       "Co-designed services and integration framework to pull PI Data using, PI AF SDK and PI Web API and send it to Azure Cloud applications through REST API calls, thereby reducing operational costs by 15%.",
