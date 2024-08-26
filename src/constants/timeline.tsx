@@ -1,14 +1,15 @@
 export const timeline = [
   {
-    company: "Amazon",
-    title: "Senior Software Engineer",
-    date: "2022 - Present",
-    description: "Building the future of e-commerce",
+    company: "Accenture",
+    title: "Application Development Analyst",
+    date: " Dec.2023 - Present",
+    description: "",
     responsibilities: [
-      "Developed a new feature that improves the shopping experience",
-      "Implemented a recommendation algorithm to suggest products",
-      "Enhanced the checkout process making it more intuitive and user-friendly",
-      "Built a feature for tracking packages in real-time",
+      "Developed Azure-based BI solutions, enabling real-time business intelligence and reporting capabilities, leading to a 12% improvement in operational decision-making speed.",
+      "Led the migration of on-premises SQL databases to Azure SQL Database, reducing operational costs by 30% and improving scalability.",
+      "Designed a robust logging and alerting framework within Azure, which enhanced operational insight and led to a 15% reduction in critical incidents.",
+      "Developed and maintained ETL pipelines using Azure Data Factory, processing over 5 TB of data daily with a 99.9% success rate.",
+      "Implemented data flow automation using Azure Logic Apps, increasing operational efficiency by 40% for time-sensitive financial reporting.",
     ],
   },
   {
