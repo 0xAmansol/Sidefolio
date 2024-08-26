@@ -105,13 +105,7 @@ export const Navigation = ({
 const SidebarHeader = () => {
   return (
     <div className="flex space-x-2">
-      <Image
-        src="https://i.ibb.co/J7rXhmH/1710241905452-1.jpg"
-        alt="Avatar"
-        height="40"
-        width="40"
-        className="object-cover object-top rounded-full flex-shrink-0"
-      />
+      <a href="https://imgbb.com/"><img src="https://i.ibb.co/J7rXhmH/1710241905452-1.jpg" alt="1710241905452-1" border="0" height="40" width="40"></a>
       <div className="flex text-sm flex-col">
         <p className="font-bold text-primary">Aman Kalal</p>
         <p className="font-light text-secondary">Full-Stack Developer</p>
