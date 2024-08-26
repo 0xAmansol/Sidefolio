@@ -3,7 +3,7 @@ export const timeline = [
     company: "Accenture",
     title: "Application Development Analyst",
     date: " Dec.2023 - Present",
-    description: "",
+    description: "Azure Data Engineer",
     responsibilities: [
       "Developed Azure-based BI solutions, enabling real-time business intelligence and reporting capabilities, leading to a 12% improvement in operational decision-making speed.",
       "Led the migration of on-premises SQL databases to Azure SQL Database, reducing operational costs by 30% and improving scalability.",
